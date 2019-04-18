@@ -66,6 +66,7 @@
     "@ckeditor/ckeditor5-widget": "^11.0.1"
   },
   "devDependencies": {
+    "@babel/polyfill": "^7.4.3",
     "@ckeditor/ckeditor5-comments": "^3.0.0",
     "@ckeditor/ckeditor5-dev-docs": "^11.0.1",
     "@ckeditor/ckeditor5-dev-env": "^14.1.1",
@@ -84,12 +85,14 @@
     "mgit2": "^0.10.0",
     "mini-css-extract-plugin": "^0.4.0",
     "minimatch": "^3.0.4",
+    "postcss-custom-properties": "^8.0.10",
     "postcss-loader": "^3.0.0",
     "raw-loader": "^1.0.0",
     "style-loader": "^0.23.0",
     "svgo": "^1.1.0",
     "uglifyjs-webpack-plugin": "^1.2.7",
     "umberto": "^0.22.0",
+    "unorm": "^1.5.0",
     "webpack": "^4.15.0"
   },
   "engines": {
