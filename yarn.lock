@@ -531,7 +531,7 @@
     "@babel/helper-regex" "^7.4.3"
     regexpu-core "^4.5.4"
 
-"@babel/polyfill@^7.0.0":
+"@babel/polyfill@^7.0.0", "@babel/polyfill@^7.4.3":
   version "7.4.3"
   resolved "https://registry.yarnpkg.com/@babel/polyfill/-/polyfill-7.4.3.tgz#332dc6f57b718017c3a8b37b4eea8aa6eeac1187"
   integrity sha512-rkv8WIvJshA5Ev8iNMGgz5WZkRtgtiPexiT7w5qevGTuT7ZBfM3de9ox1y9JR5/OXb/sWGBbWlHNa7vQKqku3Q==
@@ -646,7 +646,7 @@
   dependencies:
     "@ckeditor/ckeditor5-utils" "^12.0.0"
 
-"@ckeditor/ckeditor5-collaboration-core@^1.0.1", "@ckeditor/ckeditor5-collaboration-core@^1.0.2":
+"@ckeditor/ckeditor5-collaboration-core@^1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-collaboration-core/-/ckeditor5-collaboration-core-1.0.2.tgz#c8ea48c3c5095ddd488679052217f44c0babcffe"
   integrity sha512-iMRVkfEWeHdlBA5iEP6q5CbmSYcj88+26m56FA5izS1rIbzmymEXKn4vMPo4YlVWXSuuNJeK5OnTaoRvFhzLrw==
@@ -654,26 +654,6 @@
     "@ckeditor/ckeditor5-core" "^12.1.0"
     "@ckeditor/ckeditor5-ui" "^12.1.0"
     "@ckeditor/ckeditor5-utils" "^12.1.0"
-
-"@ckeditor/ckeditor5-comments@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-comments/-/ckeditor5-comments-2.0.0.tgz#ecf00e11c109dcfb9bf7bed5bc612b191b668262"
-  integrity sha512-r+EVdtGr9dvKRidTiEjllb9rcFRh/PMhYOG7goFJvDgidBtk05hOATUOZHKKvHvyDUbfxsnMI7PyHGAx6rdnOg==
-  dependencies:
-    "@ckeditor/ckeditor5-autoformat" "^11.0.0"
-    "@ckeditor/ckeditor5-basic-styles" "^11.0.0"
-    "@ckeditor/ckeditor5-collaboration-core" "^1.0.1"
-    "@ckeditor/ckeditor5-core" "^12.0.0"
-    "@ckeditor/ckeditor5-easy-image" "^11.0.0"
-    "@ckeditor/ckeditor5-engine" "^13.0.0"
-    "@ckeditor/ckeditor5-essentials" "^11.0.0"
-    "@ckeditor/ckeditor5-list" "^12.0.0"
-    "@ckeditor/ckeditor5-paragraph" "^11.0.0"
-    "@ckeditor/ckeditor5-ui" "^12.0.0"
-    "@ckeditor/ckeditor5-utils" "^12.0.0"
-    date-fns "^1.29.0"
-    lodash-es "^4.17.11"
-    trim-html "^0.1.9"
 
 "@ckeditor/ckeditor5-comments@^3.0.0":
   version "3.0.0"
@@ -820,7 +800,7 @@
     lodash-es "^4.17.11"
     protobufjs "^6.8.8"
 
-"@ckeditor/ckeditor5-real-time-collaboration@^12.1.0":
+"@ckeditor/ckeditor5-real-time-collaboration@^12.2.0":
   version "12.2.0"
   resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-real-time-collaboration/-/ckeditor5-real-time-collaboration-12.2.0.tgz#142aec38b28b0cc037d57355f82b618cb0126102"
   integrity sha512-1/YPI5rHSMNhVf9SaAwtdKqQAdfRWuifEELsieYdEa4tXt1IOhngU00DYyppApkjXpfXm01G1iWM6WmJ1uovWw==
@@ -836,20 +816,23 @@
     "@ckeditor/ckeditor5-utils" "^12.1.0"
     lodash-es "^4.17.11"
 
-"@ckeditor/ckeditor5-track-changes@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-track-changes/-/ckeditor5-track-changes-0.1.0.tgz#79805cf5a32a1b9d7e8f572d8b20b638dc5fabb5"
-  integrity sha512-1ckH7Q1/txpOMJf2QrdC7zvZoQs0yDGfNu2CkkpYeOP4aNTy2nxanfqNpxAYc3Bl3nimByanQkIhwQM8hFxDZQ==
+"@ckeditor/ckeditor5-track-changes@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-track-changes/-/ckeditor5-track-changes-0.2.0.tgz#3a9e5b9cc3b94b31eb76b416a83857fdd3028871"
+  integrity sha512-UOE6H9FyLIOuVXmzjhdU9HeQ7VCQfJv4OVa4wvrjNLAgL6HWxfig43CNpMETZSPp5IOQC3ORhVJkpxHm9ZnmYw==
   dependencies:
-    "@ckeditor/ckeditor5-collaboration-core" "^1.0.1"
-    "@ckeditor/ckeditor5-comments" "^2.0.0"
-    "@ckeditor/ckeditor5-core" "^12.0.0"
-    "@ckeditor/ckeditor5-engine" "^13.0.0"
-    "@ckeditor/ckeditor5-enter" "^11.0.0"
-    "@ckeditor/ckeditor5-typing" "^12.0.0"
-    "@ckeditor/ckeditor5-ui" "^12.0.0"
-    "@ckeditor/ckeditor5-undo" "^11.0.0"
-    "@ckeditor/ckeditor5-utils" "^12.0.0"
+    "@ckeditor/ckeditor5-collaboration-core" "^1.0.2"
+    "@ckeditor/ckeditor5-comments" "^3.0.0"
+    "@ckeditor/ckeditor5-core" "^12.1.0"
+    "@ckeditor/ckeditor5-engine" "^13.1.0"
+    "@ckeditor/ckeditor5-enter" "^11.0.1"
+    "@ckeditor/ckeditor5-image" "^13.0.1"
+    "@ckeditor/ckeditor5-media-embed" "^11.1.0"
+    "@ckeditor/ckeditor5-table" "^12.0.1"
+    "@ckeditor/ckeditor5-typing" "^12.0.1"
+    "@ckeditor/ckeditor5-ui" "^12.1.0"
+    "@ckeditor/ckeditor5-undo" "^11.0.1"
+    "@ckeditor/ckeditor5-utils" "^12.1.0"
     date-fns "^1.30.1"
     lodash-es "^4.17.11"
     trim-html "^0.1.9"
@@ -4324,6 +4307,11 @@ flatted@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-2.0.0.tgz#55122b6536ea496b4b44893ee2608141d10d9916"
   integrity sha512-R+H8IZclI8AAkSBRQJLVOsxwAoHd6WC40b4QTNWIjzAa6BXOBfQcM587MXDTVPeYaopFNWHUFLx7eNmHDSxMWg==
+
+flatten@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.2.tgz#dae46a9d78fbe25292258cc1e780a41d95c03782"
+  integrity sha1-2uRqnXj74lKSJYzB54CkHZXAN4I=
 
 flush-write-stream@^1.0.0, flush-write-stream@^1.0.2:
   version "1.1.1"
@@ -8002,6 +7990,14 @@ postcss-convert-values@^4.0.1:
     postcss "^7.0.0"
     postcss-value-parser "^3.0.0"
 
+postcss-custom-properties@^8.0.10:
+  version "8.0.10"
+  resolved "https://registry.yarnpkg.com/postcss-custom-properties/-/postcss-custom-properties-8.0.10.tgz#e8dc969e1e15c555f0b836b7f278ef47e3cdeaff"
+  integrity sha512-GDL0dyd7++goDR4SSasYdRNNvp4Gqy1XMzcCnTijiph7VB27XXpJ8bW/AI0i2VSBZ55TpdGhMr37kMSpRfYD0Q==
+  dependencies:
+    postcss "^7.0.14"
+    postcss-values-parser "^2.0.1"
+
 postcss-discard-comments@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/postcss-discard-comments/-/postcss-discard-comments-4.0.2.tgz#1fbabd2c246bff6aaad7997b2b0918f4d7af4033"
@@ -8335,6 +8331,15 @@ postcss-value-parser@^3.0.0, postcss-value-parser@^3.2.3, postcss-value-parser@^
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz#9ff822547e2893213cf1c30efa51ac5fd1ba8281"
   integrity sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ==
+
+postcss-values-parser@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/postcss-values-parser/-/postcss-values-parser-2.0.1.tgz#da8b472d901da1e205b47bdc98637b9e9e550e5f"
+  integrity sha512-2tLuBsA6P4rYTNKCXYG/71C7j1pU6pK503suYOmn4xYrQIzW+opD+7FAFNuGSdZC/3Qfy334QbeMu7MEb8gOxg==
+  dependencies:
+    flatten "^1.0.2"
+    indexes-of "^1.0.1"
+    uniq "^1.0.1"
 
 postcss@^6.0.1, postcss@^6.0.22, postcss@^6.0.23:
   version "6.0.23"
@@ -10467,7 +10472,7 @@ universalify@^0.1.0:
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-0.1.2.tgz#b646f69be3942dabcecc9d6639c80dc105efaa66"
   integrity sha512-rBJeI5CXAlmy1pV+617WB9J63U6XcazHHF2f2dbJix4XzpUF0RS3Zbj0FGIOCAva5P/d/GBOYaACQ1w+0azUkg==
 
-"unorm@>= 1.0.0":
+"unorm@>= 1.0.0", unorm@^1.5.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/unorm/-/unorm-1.5.0.tgz#01fa9b76f1c60f7916834605c032aa8962c3f00a"
   integrity sha512-sMfSWoiRaXXeDZSXC+YRZ23H4xchQpwxjpw1tmfR+kgbBCaOgln4NI0LXejJIhnBuKINrB3WRn+ZI8IWssirVw==
