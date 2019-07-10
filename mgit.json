@@ -22,15 +22,15 @@
     "@ckeditor/ckeditor5-editor-classic": "ckeditor/ckeditor5-editor-classic#f1a857c",
     "@ckeditor/ckeditor5-editor-decoupled": "ckeditor/ckeditor5-editor-decoupled#fc47ca8",
     "@ckeditor/ckeditor5-editor-inline": "ckeditor/ckeditor5-editor-inline#7ed5914",
-    "@ckeditor/ckeditor5-engine": "ckeditor/ckeditor5-engine#cb5612b",
+    "@ckeditor/ckeditor5-engine": "ckeditor/ckeditor5-engine#47163e8",
     "@ckeditor/ckeditor5-enter": "ckeditor/ckeditor5-enter#680c173",
     "@ckeditor/ckeditor5-essentials": "ckeditor/ckeditor5-essentials#e93927b",
-    "@ckeditor/ckeditor5-font": "ckeditor/ckeditor5-font#0962b48",
+    "@ckeditor/ckeditor5-font": "ckeditor/ckeditor5-font#7babe33",
     "@ckeditor/ckeditor5-heading": "ckeditor/ckeditor5-heading#beb7b48",
     "@ckeditor/ckeditor5-highlight": "ckeditor/ckeditor5-highlight#81c8917",
     "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#1319a6e",
     "@ckeditor/ckeditor5-indent": "ckeditor/ckeditor5-indent#058f25f",
-    "@ckeditor/ckeditor5-link": "ckeditor/ckeditor5-link#218d0b0",
+    "@ckeditor/ckeditor5-link": "ckeditor/ckeditor5-link#6b720be",
     "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#1848240",
     "@ckeditor/ckeditor5-markdown-gfm": "ckeditor/ckeditor5-markdown-gfm#db088b4",
     "@ckeditor/ckeditor5-media-embed": "ckeditor/ckeditor5-media-embed#69e3ff6",
@@ -41,12 +41,12 @@
     "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#0ceaf87",
     "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#ed85ee3",
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing#5f0d5e6",
-    "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#5890523",
+    "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#ad189b6",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#c4965a1",
     "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#42f6254",
     "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#beb98eb",
     "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#b9a5cd3",
     "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog#1d7afe5",
-    "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count#52e8813"
+    "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count#8630bc6"
   }
 }
