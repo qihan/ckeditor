@@ -46,7 +46,7 @@
     "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#83d552f",
     "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#21f1c4e",
     "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#b6ef95e",
-    "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog#e120e42",
+    "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog#69aef8b",
     "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count#e1a7a7e"
   }
 }
