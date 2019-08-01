@@ -32,7 +32,7 @@
     "@ckeditor/ckeditor5-font": "ckeditor/ckeditor5-font#552f742",
     "@ckeditor/ckeditor5-heading": "ckeditor/ckeditor5-heading#94cfdff",
     "@ckeditor/ckeditor5-highlight": "ckeditor/ckeditor5-highlight#7ed2745",
-    "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#6069624",
+    "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#0c2124f",
     "@ckeditor/ckeditor5-indent": "ckeditor/ckeditor5-indent#7fac8c0",
     "@ckeditor/ckeditor5-link": "ckeditor/ckeditor5-link#d6c45df",
     "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#345b977",
