@@ -45,7 +45,7 @@
     "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#b47a94f",
     "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#6f9bb18",
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing#7f90ace",
-    "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#bdede90",
+    "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#0825db9",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#e5df329",
     "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#41a0765",
     "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#ea32f57",
