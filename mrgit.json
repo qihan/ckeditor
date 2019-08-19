@@ -42,7 +42,7 @@
     "@ckeditor/ckeditor5-paragraph": "ckeditor/ckeditor5-paragraph#7229cdb",
     "@ckeditor/ckeditor5-paste-from-office": "ckeditor/ckeditor5-paste-from-office#e2b512f",
     "@ckeditor/ckeditor5-remove-format": "ckeditor/ckeditor5-remove-format#9b2f170",
-    "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#2ddc9f4",
+    "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#9f64452",
     "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#361b10e",
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing#be7cd42",
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#eca9fe6",
