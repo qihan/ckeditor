@@ -35,7 +35,7 @@
     "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#f2a760d",
     "@ckeditor/ckeditor5-indent": "ckeditor/ckeditor5-indent#cc421f3",
     "@ckeditor/ckeditor5-link": "ckeditor/ckeditor5-link#4345546",
-    "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#10e296d",
+    "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#2e95c61",
     "@ckeditor/ckeditor5-markdown-gfm": "ckeditor/ckeditor5-markdown-gfm#c7273a6",
     "@ckeditor/ckeditor5-media-embed": "ckeditor/ckeditor5-media-embed#bc7f4eb",
     "@ckeditor/ckeditor5-mention": "ckeditor/ckeditor5-mention#d47923e",
