@@ -35,7 +35,7 @@ The proofreader can be used either as a [cloud solution](#wproofreader-cloud) or
 
 ### WProofreader Cloud
 
-After [signing up for a [trial or paid version](https://ckeditor.com/contact/), you will receive your service ID which is used to activate the service.
+After signing up for a [trial or paid version](https://ckeditor.com/contact/), you will receive your service ID which is used to activate the service.
 
 Add the following configuration to your page:
 
@@ -89,4 +89,3 @@ WProofreader configuration is set outside the CKEditor 5 configuration. Refer to
 ## Contribute
 
 You can report issues and request features in the [official WProofreader repository](https://github.com/WebSpellChecker/wproofreader/issues).
-in the [official WProofreader repository](https://github.com/WebSpellChecker/wproofreader/issues).
