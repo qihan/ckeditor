@@ -34,7 +34,7 @@
     "@ckeditor/ckeditor5-highlight": "ckeditor/ckeditor5-highlight#e14e695",
     "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#2cfe305",
     "@ckeditor/ckeditor5-indent": "ckeditor/ckeditor5-indent#511ceb8",
-    "@ckeditor/ckeditor5-link": "ckeditor/ckeditor5-link#ece87bc",
+    "@ckeditor/ckeditor5-link": "ckeditor/ckeditor5-link#f5fde63",
     "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#c0fb223",
     "@ckeditor/ckeditor5-markdown-gfm": "ckeditor/ckeditor5-markdown-gfm#4bc601a",
     "@ckeditor/ckeditor5-media-embed": "ckeditor/ckeditor5-media-embed#ae6ce65",
@@ -51,6 +51,6 @@
     "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#e9b9522",
     "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#84975f5",
     "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog#4ed9b72",
-    "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count#0eb224a"
+    "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count#3249795"
   }
 }
