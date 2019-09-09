@@ -43,7 +43,7 @@
     "@ckeditor/ckeditor5-paste-from-office": "ckeditor/ckeditor5-paste-from-office#3ddc3c9",
     "@ckeditor/ckeditor5-remove-format": "ckeditor/ckeditor5-remove-format#132ebc7",
     "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#9911295",
-    "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#9f8876d",
+    "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#2f6f7da",
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing#6a69482",
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#161baa6",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#14e1d83",
