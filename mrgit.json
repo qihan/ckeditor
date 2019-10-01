@@ -19,7 +19,7 @@
     "@ckeditor/ckeditor5-build-balloon": "ckeditor/ckeditor5-build-balloon#eb4e374",
     "@ckeditor/ckeditor5-build-balloon-block": "ckeditor/ckeditor5-build-balloon-block#9fd1f0c",
     "@ckeditor/ckeditor5-build-classic": "ckeditor/ckeditor5-build-classic#90505b1",
-    "@ckeditor/ckeditor5-build-decoupled-document": "ckeditor/ckeditor5-build-decoupled-document#09f0f1b",
+    "@ckeditor/ckeditor5-build-decoupled-document": "ckeditor/ckeditor5-build-decoupled-document#c13766c",
     "@ckeditor/ckeditor5-build-inline": "ckeditor/ckeditor5-build-inline#0506f8a",
     "@ckeditor/ckeditor5-clipboard": "ckeditor/ckeditor5-clipboard#5499fea",
     "@ckeditor/ckeditor5-cloud-services": "ckeditor/ckeditor5-cloud-services#c5936aa",
