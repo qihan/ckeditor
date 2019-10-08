@@ -30,7 +30,7 @@
     "@ckeditor/ckeditor5-editor-classic": "ckeditor/ckeditor5-editor-classic#6acb49e",
     "@ckeditor/ckeditor5-editor-decoupled": "ckeditor/ckeditor5-editor-decoupled#be7f15d",
     "@ckeditor/ckeditor5-editor-inline": "ckeditor/ckeditor5-editor-inline#ed5ec53",
-    "@ckeditor/ckeditor5-engine": "ckeditor/ckeditor5-engine#45c82be",
+    "@ckeditor/ckeditor5-engine": "ckeditor/ckeditor5-engine#a9190c9",
     "@ckeditor/ckeditor5-enter": "ckeditor/ckeditor5-enter#60ceb08",
     "@ckeditor/ckeditor5-essentials": "ckeditor/ckeditor5-essentials#e69894a",
     "@ckeditor/ckeditor5-font": "ckeditor/ckeditor5-font#ec56ab9",
@@ -54,7 +54,7 @@
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#bb770a8",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#ad01e9a",
     "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#bcdec22",
-    "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#0cf5187",
+    "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#37fbcb9",
     "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#c7cd2ef",
     "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog#565e1aa",
     "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count#13fe44e"
