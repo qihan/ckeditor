@@ -54,7 +54,7 @@
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#bb770a8",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#ad01e9a",
     "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#bcdec22",
-    "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#37fbcb9",
+    "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#b934722",
     "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#c7cd2ef",
     "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog#565e1aa",
     "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count#13fe44e"
