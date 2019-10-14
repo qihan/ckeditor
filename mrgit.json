@@ -40,7 +40,7 @@
     "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#71adead",
     "@ckeditor/ckeditor5-indent": "ckeditor/ckeditor5-indent#cf15eab",
     "@ckeditor/ckeditor5-link": "ckeditor/ckeditor5-link#a3bf928",
-    "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#48be07f",
+    "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#3fd6758",
     "@ckeditor/ckeditor5-markdown-gfm": "ckeditor/ckeditor5-markdown-gfm#c9ee09f",
     "@ckeditor/ckeditor5-media-embed": "ckeditor/ckeditor5-media-embed#6a0cb8a",
     "@ckeditor/ckeditor5-mention": "ckeditor/ckeditor5-mention#4975a31",
