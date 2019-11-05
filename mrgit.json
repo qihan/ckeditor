@@ -12,7 +12,7 @@
     "@ckeditor/ckeditor-cloud-services-core": "ckeditor/ckeditor-cloud-services-core#9db7097",
     "@ckeditor/ckeditor5-adapter-ckfinder": "ckeditor/ckeditor5-adapter-ckfinder#b706d48",
     "@ckeditor/ckeditor5-alignment": "ckeditor/ckeditor5-alignment#f99b77b",
-    "@ckeditor/ckeditor5-autoformat": "ckeditor/ckeditor5-autoformat#98d30f3",
+    "@ckeditor/ckeditor5-autoformat": "ckeditor/ckeditor5-autoformat#241c294",
     "@ckeditor/ckeditor5-autosave": "ckeditor/ckeditor5-autosave#d47d925",
     "@ckeditor/ckeditor5-basic-styles": "ckeditor/ckeditor5-basic-styles#5e6f5ca",
     "@ckeditor/ckeditor5-block-quote": "ckeditor/ckeditor5-block-quote#4c4bb51",
