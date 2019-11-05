@@ -35,7 +35,7 @@
     "@ckeditor/ckeditor5-essentials": "ckeditor/ckeditor5-essentials#0de2d8c",
     "@ckeditor/ckeditor5-font": "ckeditor/ckeditor5-font#0b80c20",
     "@ckeditor/ckeditor5-heading": "ckeditor/ckeditor5-heading#15ccee5",
-    "@ckeditor/ckeditor5-highlight": "ckeditor/ckeditor5-highlight#1487cdf",
+    "@ckeditor/ckeditor5-highlight": "ckeditor/ckeditor5-highlight#658baa4",
     "@ckeditor/ckeditor5-horizontal-line": "ckeditor/ckeditor5-horizontal-line#c1d387e",
     "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#11c9f39",
     "@ckeditor/ckeditor5-indent": "ckeditor/ckeditor5-indent#7125eee",
