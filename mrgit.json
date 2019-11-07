@@ -46,7 +46,7 @@
     "@ckeditor/ckeditor5-mention": "ckeditor/ckeditor5-mention#8993cb8",
     "@ckeditor/ckeditor5-page-break": "ckeditor/ckeditor5-page-break#5d036a0",
     "@ckeditor/ckeditor5-paragraph": "ckeditor/ckeditor5-paragraph#95daec0",
-    "@ckeditor/ckeditor5-paste-from-office": "ckeditor/ckeditor5-paste-from-office#fd7ba1d",
+    "@ckeditor/ckeditor5-paste-from-office": "ckeditor/ckeditor5-paste-from-office#2cd7b0f",
     "@ckeditor/ckeditor5-remove-format": "ckeditor/ckeditor5-remove-format#f35bd80",
     "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#63da06f",
     "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#0fe1500",
