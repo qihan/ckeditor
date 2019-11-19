@@ -53,7 +53,7 @@
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing#6aeb117",
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#95404e3",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#d263b96",
-    "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#7842428",
+    "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#b8dd05f",
     "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#5ec2518",
     "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#c77e978",
     "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog#3f24a2e",
