@@ -32,7 +32,7 @@ Assuming that you picked [`@ckeditor/ckeditor5-build-classic`](https://www.npmjs
 npm install --save @ckeditor/ckeditor5-build-classic
 ```
 
-Now, add `CKEditorModule` to your application module imports:
+Now, add `CKEditorModule` to modules whose components will be using the `<ckeditor>` component in their templates.
 
 ```ts
 import { CKEditorModule } from '@ckeditor/ckeditor5-angular';
@@ -46,7 +46,7 @@ import { CKEditorModule } from '@ckeditor/ckeditor5-angular';
 } )
 ```
 
-Import the editor build in your Angular component and assign it to a `public` property so it becomes accessible in the template:
+Import the editor build in your Angular component and assign it to a `public` property to make it accessible from the template:
 
 ```ts
 import * as ClassicEditor from '@ckeditor/ckeditor5-build-classic';
@@ -130,7 +130,7 @@ Note that to allow importing JavaScript files without providing their correspond
 
 ### Using the editor with collaboration plugins
 
-The easiest way to integrate {@link features/collaboration collaboration plugins} in an Angular application is to create a custom build first and later import it from the Angular application &mdash; see [Using a custom CKEditor 5 build](#using-a-custom-ckeditor-5-build).
+The easiest way to integrate [collaboration plugins](https://ckeditor.com/docs/ckeditor5/latest/features/collaboration/collaboration.html) in an Angular application is to create a custom build first and later import it from the Angular application &mdash; see [Using a custom CKEditor 5 build](#using-a-custom-ckeditor-5-build).
 
 For such scenario we provide a few ready-to-use integrations featuring collaborative editing in Angular applications:
 
