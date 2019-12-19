@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "@ckeditor/ckeditor-cloud-services-core": "ckeditor/ckeditor-cloud-services-core#aaa8647",
-    "@ckeditor/ckeditor5-adapter-ckfinder": "ckeditor/ckeditor5-adapter-ckfinder#ff843ab",
+    "@ckeditor/ckeditor5-adapter-ckfinder": "ckeditor/ckeditor5-adapter-ckfinder#ddbe691",
     "@ckeditor/ckeditor5-alignment": "ckeditor/ckeditor5-alignment#0295ed5",
     "@ckeditor/ckeditor5-autoformat": "ckeditor/ckeditor5-autoformat#63acfce",
     "@ckeditor/ckeditor5-autosave": "ckeditor/ckeditor5-autosave#4cc1cea",
