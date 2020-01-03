@@ -31,7 +31,7 @@
     "@ckeditor/ckeditor5-editor-classic": "ckeditor/ckeditor5-editor-classic#cf883fe",
     "@ckeditor/ckeditor5-editor-decoupled": "ckeditor/ckeditor5-editor-decoupled#6f182f0",
     "@ckeditor/ckeditor5-editor-inline": "ckeditor/ckeditor5-editor-inline#0f70c3d",
-    "@ckeditor/ckeditor5-engine": "ckeditor/ckeditor5-engine#cf5b023",
+    "@ckeditor/ckeditor5-engine": "ckeditor/ckeditor5-engine#32c3f41",
     "@ckeditor/ckeditor5-enter": "ckeditor/ckeditor5-enter#4cdf220",
     "@ckeditor/ckeditor5-essentials": "ckeditor/ckeditor5-essentials#cdbcd8b",
     "@ckeditor/ckeditor5-font": "ckeditor/ckeditor5-font#7829715",
