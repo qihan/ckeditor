@@ -49,7 +49,7 @@
     "@ckeditor/ckeditor5-paragraph": "ckeditor/ckeditor5-paragraph#92b1a8d",
     "@ckeditor/ckeditor5-paste-from-office": "ckeditor/ckeditor5-paste-from-office#958662e",
     "@ckeditor/ckeditor5-remove-format": "ckeditor/ckeditor5-remove-format#0a448ac",
-    "@ckeditor/ckeditor5-restricted-editing": "ckeditor/ckeditor5-restricted-editing#de3cc10",
+    "@ckeditor/ckeditor5-restricted-editing": "ckeditor/ckeditor5-restricted-editing#dc26f4c",
     "@ckeditor/ckeditor5-special-characters": "ckeditor/ckeditor5-special-characters#58f7cac",
     "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#ffbc6c9",
     "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#5252417",
