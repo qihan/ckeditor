@@ -22,7 +22,7 @@
     "@ckeditor/ckeditor5-build-decoupled-document": "ckeditor/ckeditor5-build-decoupled-document#b9a47a7",
     "@ckeditor/ckeditor5-build-inline": "ckeditor/ckeditor5-build-inline#974766e",
     "@ckeditor/ckeditor5-clipboard": "ckeditor/ckeditor5-clipboard#a392752",
-    "@ckeditor/ckeditor5-cloud-services": "ckeditor/ckeditor5-cloud-services#0ca3088",
+    "@ckeditor/ckeditor5-cloud-services": "ckeditor/ckeditor5-cloud-services#b98b457",
     "@ckeditor/ckeditor5-ckfinder": "ckeditor/ckeditor5-ckfinder#f055c2c",
     "@ckeditor/ckeditor5-code-block": "ckeditor/ckeditor5-code-block#3366cc1",
     "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core#0b92d96",
