@@ -51,14 +51,14 @@
     "@ckeditor/ckeditor5-remove-format": "ckeditor/ckeditor5-remove-format#7b053a5",
     "@ckeditor/ckeditor5-restricted-editing": "ckeditor/ckeditor5-restricted-editing#2df3b4b",
     "@ckeditor/ckeditor5-special-characters": "ckeditor/ckeditor5-special-characters#0445c1a",
-    "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#e31b431",
+    "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#96dd325",
     "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#f859f4b",
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing#fa79d00",
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#c7a58df",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#f56cc26",
     "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#2657a60",
     "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#0f36f89",
-    "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#81bb636",
+    "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#43a7c1d",
     "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog#2133cae",
     "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count#9270325"
   }
