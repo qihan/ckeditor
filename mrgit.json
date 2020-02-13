@@ -14,7 +14,7 @@
     "@ckeditor/ckeditor5-alignment": "ckeditor/ckeditor5-alignment#15b257e",
     "@ckeditor/ckeditor5-autoformat": "ckeditor/ckeditor5-autoformat#5b33b3d",
     "@ckeditor/ckeditor5-autosave": "ckeditor/ckeditor5-autosave#fc6f9c3",
-    "@ckeditor/ckeditor5-basic-styles": "ckeditor/ckeditor5-basic-styles#392249c",
+    "@ckeditor/ckeditor5-basic-styles": "ckeditor/ckeditor5-basic-styles#2e543fd",
     "@ckeditor/ckeditor5-block-quote": "ckeditor/ckeditor5-block-quote#ca40f64",
     "@ckeditor/ckeditor5-build-balloon": "ckeditor/ckeditor5-build-balloon#b7d8c12",
     "@ckeditor/ckeditor5-build-balloon-block": "ckeditor/ckeditor5-build-balloon-block#f135f8e",
