@@ -21,7 +21,7 @@
     "@ckeditor/ckeditor5-build-classic": "ckeditor/ckeditor5-build-classic#9339aa0",
     "@ckeditor/ckeditor5-build-decoupled-document": "ckeditor/ckeditor5-build-decoupled-document#4d66024",
     "@ckeditor/ckeditor5-build-inline": "ckeditor/ckeditor5-build-inline#b7edc4b",
-    "@ckeditor/ckeditor5-clipboard": "ckeditor/ckeditor5-clipboard#50ec76e",
+    "@ckeditor/ckeditor5-clipboard": "ckeditor/ckeditor5-clipboard#76e85fb",
     "@ckeditor/ckeditor5-cloud-services": "ckeditor/ckeditor5-cloud-services#dd0d526",
     "@ckeditor/ckeditor5-ckfinder": "ckeditor/ckeditor5-ckfinder#8c6e38e",
     "@ckeditor/ckeditor5-code-block": "ckeditor/ckeditor5-code-block#4b04044",
