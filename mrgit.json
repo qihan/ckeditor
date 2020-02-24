@@ -25,7 +25,7 @@
     "@ckeditor/ckeditor5-cloud-services": "ckeditor/ckeditor5-cloud-services#dd0d526",
     "@ckeditor/ckeditor5-ckfinder": "ckeditor/ckeditor5-ckfinder#8c6e38e",
     "@ckeditor/ckeditor5-code-block": "ckeditor/ckeditor5-code-block#4b04044",
-    "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core#af60015",
+    "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core#b5ab6ec",
     "@ckeditor/ckeditor5-easy-image": "ckeditor/ckeditor5-easy-image#1407a62",
     "@ckeditor/ckeditor5-editor-balloon": "ckeditor/ckeditor5-editor-balloon#3cc943d",
     "@ckeditor/ckeditor5-editor-classic": "ckeditor/ckeditor5-editor-classic#55f353e",
