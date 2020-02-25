@@ -38,7 +38,7 @@
     "@ckeditor/ckeditor5-heading": "ckeditor/ckeditor5-heading#c675f9b",
     "@ckeditor/ckeditor5-highlight": "ckeditor/ckeditor5-highlight#c6b6ac7",
     "@ckeditor/ckeditor5-horizontal-line": "ckeditor/ckeditor5-horizontal-line#a1570d0",
-    "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#5ba2c4b",
+    "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#1ec9f37",
     "@ckeditor/ckeditor5-indent": "ckeditor/ckeditor5-indent#edd2fe7",
     "@ckeditor/ckeditor5-link": "ckeditor/ckeditor5-link#367b4d0",
     "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#d33e557",
@@ -58,7 +58,7 @@
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#1a2381c",
     "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#ec6518c",
     "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#b148e9c",
-    "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#886df83",
+    "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#d339a64",
     "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog#48a95ca",
     "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count#bd8619d"
   }
