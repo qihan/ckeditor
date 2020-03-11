@@ -51,7 +51,7 @@
     "@ckeditor/ckeditor5-remove-format": "ckeditor/ckeditor5-remove-format#bc88cde",
     "@ckeditor/ckeditor5-restricted-editing": "ckeditor/ckeditor5-restricted-editing#de9bc41",
     "@ckeditor/ckeditor5-special-characters": "ckeditor/ckeditor5-special-characters#2dde259",
-    "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#700fbb1",
+    "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#eab1b5f",
     "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#931351c",
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing#3e30943",
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#ed37ff0",
