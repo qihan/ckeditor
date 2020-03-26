@@ -52,7 +52,7 @@
     "@ckeditor/ckeditor5-restricted-editing": "ckeditor/ckeditor5-restricted-editing#4cacaa0",
     "@ckeditor/ckeditor5-special-characters": "ckeditor/ckeditor5-special-characters#5011a8c",
     "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table#b905aa5",
-    "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#d5a52ca",
+    "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark#7df8dec",
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing#cd4fa3e",
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#5a7aca7",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#4133f28",
