@@ -44,7 +44,7 @@
     "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#82281c8",
     "@ckeditor/ckeditor5-markdown-gfm": "ckeditor/ckeditor5-markdown-gfm#3a61535",
     "@ckeditor/ckeditor5-media-embed": "ckeditor/ckeditor5-media-embed#ff84956",
-    "@ckeditor/ckeditor5-mention": "ckeditor/ckeditor5-mention#4d678d3",
+    "@ckeditor/ckeditor5-mention": "ckeditor/ckeditor5-mention#aa7d04d",
     "@ckeditor/ckeditor5-page-break": "ckeditor/ckeditor5-page-break#8919d46",
     "@ckeditor/ckeditor5-paragraph": "ckeditor/ckeditor5-paragraph#c74e362",
     "@ckeditor/ckeditor5-paste-from-office": "ckeditor/ckeditor5-paste-from-office#bcc483e",
