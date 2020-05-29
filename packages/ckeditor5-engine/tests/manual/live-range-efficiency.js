@@ -73,7 +73,7 @@ function createRandomItems( editor ) {
 	const rangeBound = parseInt( ( totalCharacters / maxItems ) / 2, 10 );
 
 	editor.model.change( writer => {
-		for ( let i = 1; i < maxItems; i++ ) {
+		for ( let i = 1; i <= maxItems; i++ ) {
 			const startCharacterIndex = ( i * rangeBound ) * 2;
 			const endCharacterIndex = startCharacterIndex + rangeBound;
 
@@ -91,16 +91,8 @@ function createRandomItems( editor ) {
 					range: new Range( start, end ),
 					usingOperation: true
 				} );
-
-				if ( Array.from( editor.model.markers ).length >= maxItems ) {
-					return;
-				}
 			} else {
 				window.ranges.add( new LiveRange( start, end ) );
-
-				if ( window.ranges.size >= maxItems ) {
-					return;
-				}
 			}
 		}
 	} );
