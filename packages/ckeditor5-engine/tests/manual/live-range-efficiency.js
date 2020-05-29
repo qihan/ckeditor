@@ -73,7 +73,7 @@ function createRandomItems( editor ) {
 	const rangeBound = parseInt( ( totalCharacters / maxItems ) / 2, 10 );
 
 	editor.model.change( writer => {
-		for ( let i = 1; i <= maxItems; i++ ) {
+		for ( let i = 1; i < maxItems; i++ ) {
 			const startCharacterIndex = ( i * rangeBound ) * 2;
 			const endCharacterIndex = startCharacterIndex + rangeBound;
 
