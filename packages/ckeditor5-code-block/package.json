@@ -24,6 +24,7 @@
     "@ckeditor/ckeditor5-editor-classic": "^20.0.0",
     "@ckeditor/ckeditor5-engine": "^20.0.0",
     "@ckeditor/ckeditor5-indent": "^20.0.0",
+    "@ckeditor/ckeditor5-markdown-gfm": "^20.0.0",
     "@ckeditor/ckeditor5-paragraph": "^20.0.0",
     "@ckeditor/ckeditor5-undo": "^20.0.0"
   },
